@@ -6,7 +6,6 @@ const  Navbar =() => {
   return (
     <div className='navbar'>
         <h1>Salom World</h1>
-        <img src={bg_image} alt="" />
 
 
         
