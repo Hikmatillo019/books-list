@@ -3,7 +3,15 @@ import './main.css'
 
 function main() {
   return (
-    <div>
+    <div className='SignIn'>
+        <div className="SignIn-modal">
+            <h1>Sign in</h1>
+            <div>
+                <div>
+                    
+                </div>
+            </div>
+        </div>
       
     </div>
   )
